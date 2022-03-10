@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body{
+            background-image: url('../static/img/back.png') }}
+        }
+</style>
+</head>
+
+<body>
+    <h1 style="text-align: center; color: white;">
+        Arabic Dialect Checker
+    </h1>
+    <form method="POST" align="center" style="padding-top: 50px;">
+        <input name="text" placeholder="Enter arabic text"><br>
+        
+        <input type="radio" id="dnn" name="model" value="Deep learning model">
+        <label for="dnn" style="color:white;">Deep learning model</label><br>
+        
+        <input type="radio" id="ml" name="model" value="Machine learning model" checked>
+        <label for="ml" style="color:white;">Machine learning model</label><br>
+        
+        <input type="submit" style="margin-top: 20px;">
+    </form>
+</body>
