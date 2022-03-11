@@ -13,3 +13,10 @@ For test purpose run arabic_dialect_app notebook, make sure the following is inc
   3) tfidf vectorizer: https://drive.google.com/file/d/1-2Kwo-lE-O04BZ7zLjTUw4RskzFWuoV4/view?usp=sharing
   4) sgd calssifier for tfidf vectorization: included in repo with name sgd_tfidf
   5) label encoder: included in repo
+ 
+ For training:
+  1) Download the ids dataset
+  2) Don't forget to change paths
+  3) Run fetch notebook to retrieve text dataset
+  4) Run processing function in data_preprocessing notebook, make sure to comment function after done
+  5) Run Model_training notebook
