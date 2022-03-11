@@ -11,5 +11,5 @@ For test purpose run arabic_dialect_app notebook, make sure the following is inc
   1) deep neural model: https://drive.google.com/drive/folders/1egFUP2UHgxpFxJvXiFRePmOTP-pnqVMA?usp=sharing
   2) padding tokenizer: https://drive.google.com/file/d/1-3lFBPoQ2tQD80gKz3mnt4dUfyTSzk0i/view?usp=sharing
   3) tfidf vectorizer: https://drive.google.com/file/d/1-2Kwo-lE-O04BZ7zLjTUw4RskzFWuoV4/view?usp=sharing
-  4) sgd calssifier for tfidf vectorization: https://drive.google.com/file/d/1tu0y0F3lCWi3weXhiYbW-_A2pIzm6aKn/view?usp=sharing
+  4) sgd calssifier for tfidf vectorization: included in repo with name sgd_tfidf
   5) label encoder: included in repo
