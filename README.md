@@ -15,7 +15,7 @@ For test purpose run arabic_dialect_app notebook, make sure the following is inc
   5) label encoder: included in repo
  
  For training:
-  1) Download the ids dataset
+  1) Download the ids dataset : https://docs.google.com/spreadsheets/d/1nDAqbpGSS3-7bc-Y5rc2LG-vf0iIuNlhwfttD4jj9aU/edit?usp=sharing
   2) Don't forget to change paths
   3) Run fetch notebook to retrieve text dataset
   4) Run processing function in data_preprocessing notebook, make sure to comment function after done
